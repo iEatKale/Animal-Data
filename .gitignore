@@ -13,3 +13,6 @@ __pycache__/
 # VS code settings
 .vscode/
 
+# Excel temporary files
+~$*.xlsx
+~$*.xls
