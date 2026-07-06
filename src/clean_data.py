@@ -66,10 +66,13 @@ def clean_data(df):
 
     df["country"] = df["country"].replace(country_map)
 
-    # Fill missing gender values
+    # fill missing gender values
     df["gender"] = df["gender"].fillna("not determined")
 
-    # Convert observation_date to datetime
+    # remove rows with missing latitude or longitude
+    df = df.dropna(subset=["latitude", "longitude"])
+
+    # convert observation_date to datetime
     original_dates = df["observation_date"].astype(str).str.strip()
 
     # parse main format

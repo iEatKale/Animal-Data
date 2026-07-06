@@ -10,7 +10,6 @@ Red Squirrel,Poland,0.308,22.0,female,52.241273,21.055745,2024-03-01,Anne Anthon
 Red Squirrel,Poland,0.348,20.0,female,52.24206,21.057802,2024-03-01,Anne Anthony
 Red Squirrel,Poland,0.316,20.0,male,52.240035,21.056188,2024-03-01,Anne Anthony
 Red Squirrel,Poland,0.34,21.0,not determined,52.240284,21.051948,2024-03-01,Anne Anthony
-Red Squirrel,Poland,0.333,21.0,male,,,2024-03-01,Anne Anthony
 Red Squirrel,Poland,0.265,19.0,female,52.24056,21.055899,2024-03-01,Anne Anthony
 Red Squirrel,Poland,0.298,20.0,male,52.241177,21.052873,2024-03-01,Anne Anthony
 Red Squirrel,Poland,0.261,22.0,female,52.240833,21.052093,2024-03-01,Anne Anthony
@@ -18,21 +17,6 @@ Red Squirrel,Poland,0.317,23.0,male,52.241358,21.056352,2024-03-01,Anne Anthony
 Red Squirrel,Poland,0.328,21.0,male,52.241905,21.050727,2024-03-01,Anne Anthony
 Red Squirrel,Hungary,0.305,21.0,male,47.511401,18.949119,2024-03-01,Anne Anthony
 Red Squirrel,Poland,0.328,23.0,male,52.24192,21.056347,2024-03-01,Anne Anthony
-Red Squirrel,Germany,0.294,19.0,male,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.25,19.0,female,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.262,21.0,male,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.267,21.0,female,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.269,22.0,male,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.308,22.0,female,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.308,19.0,male,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.27,20.0,male,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.32,20.0,male,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.262,20.0,male,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.256,21.0,male,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.245,22.0,male,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.292,19.0,male,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.289,19.0,female,,,2024-03-01,Bob Bobson
-Red Squirrel,Germany,0.308,22.0,male,,,2024-03-01,Bob Bobson
 European Bison,Slovakia,420.0,182.0,male,49.054684,22.417189,2024-03-01,John Johnson
 European Bison,Slovakia,511.0,266.0,female,49.053629,22.421831,2024-03-01,John Johnson
 European Bison,Slovakia,814.0,288.0,male,49.053489,22.415229,2024-03-01,John Johnson
@@ -50,37 +34,6 @@ Red Squirrel,Slovakia,0.275,23.0,male,48.185353,17.08322,2024-03-01,John Johnson
 Hedgehog,Czech Republic,0.9,22.0,male,50.642843,14.84124,2024-03-01,John Johnson
 Lynx,Hungary,23.0,78.0,female,48.504128,20.568479,2024-03-02,Anne Anthony
 Lynx,Poland,29.0,94.0,male,52.809851,23.858071,2024-03-02,Anne Anthony
-Red Squirrel,Germany,0.244,22.0,female,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.299,21.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.284,20.0,female,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.289,20.0,female,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.284,21.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.314,22.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.262,19.0,female,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.258,20.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.297,21.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.255,22.0,female,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.28,22.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.293,22.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.295,20.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.28,20.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.281,20.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.245,21.0,female,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.283,21.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.27,19.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.315,22.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.254,17.0,female,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.249,19.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.298,21.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.314,19.0,female,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.251,19.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.293,20.0,female,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.301,20.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.271,17.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.275,20.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.304,21.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.308,20.0,male,,,2024-03-02,Bob Bobson
-Red Squirrel,Germany,0.24,21.0,male,,,2024-03-02,Bob Bobson
 European Bison,Czech Republic,402.0,162.0,female,50.641008,14.836529,2024-03-02,John Johnson
 European Bison,Czech Republic,535.0,295.0,male,50.643406,14.836495,2024-03-02,John Johnson
 European Bison,Czech Republic,572.0,251.0,female,50.638945,14.845452,2024-03-02,John Johnson
@@ -105,7 +58,6 @@ Hedgehog,Hungary,1.2,26.0,male,48.509298,20.551977,2024-03-04,Anne Anthony
 Hedgehog,Poland,0.9,22.0,male,52.214679,21.033021,2024-03-04,Anne Anthony
 Lynx,Hungary,25.0,89.0,male,48.504169,20.559452,2024-03-04,Anne Anthony
 Red Squirrel,Hungary,0.283,18.0,female,48.505251,20.551473,2024-03-04,Anne Anthony
-Red Squirrel,Hungary,0.307,20.0,male,,,2024-03-04,Anne Anthony
 Red Squirrel,Hungary,0.296,22.0,male,48.502584,20.532518,2024-03-04,Anne Anthony
 Red Squirrel,Hungary,0.301,18.0,female,48.505512,20.538038,2024-03-04,Anne Anthony
 Red Squirrel,Hungary,0.295,17.0,male,48.50578,20.546466,2024-03-04,Anne Anthony
@@ -500,31 +452,6 @@ Hedgehog,Hungary,0.7,16.0,female,47.510231,18.940042,2024-04-06,Anne Anthony
 Hedgehog,Hungary,0.8,14.0,female,47.509073,18.946838,2024-04-06,Anne Anthony
 Red Squirrel,Poland,0.348,23.0,male,50.041252,19.950033,2024-04-06,Anne Anthony
 Red Squirrel,Austria,0.294,22.0,male,47.855007,15.076539,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.299,19.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.314,19.0,female,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.297,20.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.298,21.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.301,19.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.267,20.0,female,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.315,21.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.3,21.0,female,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.3,21.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.264,22.0,female,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.251,21.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.302,22.0,female,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.262,22.0,female,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.301,20.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.243,19.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.314,20.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.244,20.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.25,22.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.272,20.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.289,20.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.315,20.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.304,21.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.241,19.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.248,22.0,male,,,2024-04-06,Bob Bobson
-Red Squirrel,Germany,0.29,21.0,male,,,2024-04-06,Bob Bobson
 Hedgehog,Slovakia,0.8,17.0,male,48.409645,18.872415,2024-04-06,John Johnson
 Lynx,Czech Republic,26.0,88.0,female,50.883881,14.373018,2024-04-06,John Johnson
 Red Squirrel,Czech Republic,0.316,23.0,female,49.93931,14.181266,2024-04-06,John Johnson
