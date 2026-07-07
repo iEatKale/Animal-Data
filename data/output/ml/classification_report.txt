@@ -19,3 +19,19 @@ Confusion Matrix:
  [ 0 56  0  0]
  [ 0  0 14  0]
  [ 0  0  0 68]]
+
+Feature Importance:
+               Feature  Importance
+             weight_kg    0.593476
+        body_length_cm    0.205676
+             longitude    0.086454
+              latitude    0.077332
+        country_Poland    0.016618
+       country_Germany    0.004675
+country_Czech Republic    0.004158
+           gender_male    0.002875
+       country_Hungary    0.002480
+      country_Slovakia    0.002407
+         gender_female    0.002191
+       country_Austria    0.001105
+ gender_not determined    0.000554

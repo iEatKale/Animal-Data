@@ -1,0 +1,26 @@
+Regression Model Results
+------------------------
+Target: body_length_cm
+
+Mean Absolute Error: 4.6635
+Root Mean Squared Error: 13.2954
+R2 Score: 0.9497
+
+Feature Importance:
+                   Feature  Importance
+                 weight_kg    0.918648
+animal_type_European Bison    0.068390
+             gender_female    0.003280
+          animal_type_Lynx    0.002631
+                 longitude    0.002616
+                  latitude    0.002478
+               gender_male    0.001154
+    country_Czech Republic    0.000284
+          country_Slovakia    0.000224
+            country_Poland    0.000152
+           country_Hungary    0.000044
+      animal_type_Hedgehog    0.000030
+     gender_not determined    0.000025
+  animal_type_Red Squirrel    0.000022
+           country_Austria    0.000014
+           country_Germany    0.000008

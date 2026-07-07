@@ -1,10 +1,12 @@
 import sys
 
-from src.load_data import load_file
-from src.inspect_data import inspect_data
-from src.clean_data import clean_data
-from src.save_data import save_to_csv, save_to_excel
-from src.ml_preprocessing import train_classification_model
+from src.data_engineering.load_data import load_file
+from src.data_engineering.inspect_data import inspect_data
+from src.data_engineering.clean_data import clean_data
+from src.data_engineering.save_data import save_to_csv, save_to_excel
+from src.machine_learning.ml_classification import train_classification_model
+from src.machine_learning.ml_regression import train_regression_model
+from src.machine_learning.ml_clustering import run_clustering_model
 
 def run_cleaning_pipeline():
     file_path = "data/input/animal_data.csv"
@@ -38,6 +40,12 @@ def run_ml_pipeline():
 
     print("Running animal_type classification model...")
     train_classification_model(df)
+
+    print("\nRunning body_length_cm regression model...")
+    train_regression_model(df)
+
+    print("\nRunning animal clustering model...")
+    run_clustering_model(df)
 
 def main():
     if len(sys.argv) < 2:
