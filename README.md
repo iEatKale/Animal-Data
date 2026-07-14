@@ -1,4 +1,4 @@
-# Anymal-Data
+# Animal-Data
 
 Anymal-Data is a Python data pipeline project for cleaning, processing, and analysing animal observation data.
 
