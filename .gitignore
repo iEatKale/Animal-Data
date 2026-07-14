@@ -16,3 +16,6 @@ __pycache__/
 # Excel temporary files
 ~$*.xlsx
 ~$*.xls
+
+# AI files
+.agents
