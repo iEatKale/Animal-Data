@@ -19,3 +19,11 @@ __pycache__/
 
 # AI files
 .agents
+
+# Azurite local storage
+__azurite_db_*.json
+__blobstorage__/
+__queuestorage__/
+azurite_db_*.json
+blobstorage/
+queuestorage/
